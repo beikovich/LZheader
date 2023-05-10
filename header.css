@@ -1,13 +1,5 @@
 /* Header start */
 
- @media all (min-width: 768px) and (max-width: 1150px) {
-   .container {
-      width: 92.957vwvw;
-      margin: 0 auto;
-   }
-
- }
-
  .container {
     width: 92.8528886242vw;
     margin: 0 auto;
